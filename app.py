@@ -6,3 +6,5 @@ if a<10:
     elif a%2 ==0:
         print ('Lalith is not good')
 # final commit 
+list1= [a,b,c]
+list1[0]
